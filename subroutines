@@ -1,0 +1,6 @@
+IMPORT mathslib
+
+PROCEDURE main()
+    square_root = mathslib.sqrt(number)
+    PRINT(square_root)
+ENDPROCEDURE 
